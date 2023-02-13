@@ -10,4 +10,4 @@ body POST REQUEST:
  "body":"this is the body"
 }
 # Screenshot
-![](screnshot/Capt1.JPG)
+![](screenshot/Capt1.JPG)
