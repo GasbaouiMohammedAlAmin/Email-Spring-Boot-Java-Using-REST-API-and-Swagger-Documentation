@@ -10,4 +10,10 @@ body POST REQUEST:
  "body":"this is the body"
 }
 # Screenshot
+####  swagger tool documentation
 ![](screenshot/Capt1.JPG)
+#### body post request to send an email
+![](screenshot/Capt2.JPG)
+
+![](screenshot/Capt3.JPG)
+
